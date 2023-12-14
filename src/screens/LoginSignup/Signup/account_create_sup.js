@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const verification = () => {
+const account_create_sup = () => {
   return (
     <View>
-      <Text>verification</Text>
+      <Text>account_create_sup</Text>
     </View>
   )
 }
 
-export default verification
+export default account_create_sup
 
 const styles = StyleSheet.create({})
